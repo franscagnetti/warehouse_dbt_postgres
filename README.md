@@ -4,10 +4,10 @@
 To execute the whole process, you need to go through some configurations:
 
   1. Download and install docker, docker-compose, postgresql and python3:
-  Docker: https://docs.docker.com/desktop/mac/install/
-  Compose: https://docs.docker.com/compose/install/
-  Postgresql: https://www.postgresql.org/download/macosx/
-  Python3: https://docs.python-guide.org/starting/install3/osx/
+  - Docker: https://docs.docker.com/desktop/mac/install/
+  - Compose: https://docs.docker.com/compose/install/
+  - Postgresql: https://www.postgresql.org/download/macosx/
+  - Python3: https://docs.python-guide.org/starting/install3/osx/
 
   2. Modify the profiles.yml (In mac is in /Users/username/.dbt/profiles.yml):
   ```
